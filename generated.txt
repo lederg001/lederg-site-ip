@@ -1,1 +1,6 @@
-привет вот в этот репозиторий https://github.com/lederg001/lederg-site-ip
+generated.txt
+```txt
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
